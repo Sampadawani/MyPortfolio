@@ -794,6 +794,19 @@ input {
     transform: translateY(-2px);
 }
 
+.project-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: #7c3aed;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.project-link:hover {
+    text-decoration: underline;
+}
+
+
 
 @media (prefers-reduced-motion: reduce) {
     *,
